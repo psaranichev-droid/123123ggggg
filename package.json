@@ -1,0 +1,9 @@
+{
+  "name": "repl-clone-workspace",
+  "version": "1.0.0",
+  "description": "Рабочее пространство ReplClone",
+  "main": "src/main.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
